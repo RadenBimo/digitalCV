@@ -26,7 +26,7 @@ Able work in team, responsible and fast learner person who passionate about solv
 EMAIL = "rbimomandalaputra@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://linkedin.com/in/radenbimo/",
-    "GitHub": "https://github.com/RadenBimo",
+    "GitHub": "https://github.com/RadenBimo"
 }
 SOCIAL_MEDIA_PATH ={
     "LinkedIn" : current_dir / "assets" / "Link.png",
